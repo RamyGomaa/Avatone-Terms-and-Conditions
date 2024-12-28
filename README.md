@@ -1,1 +1,0 @@
-# Avatone-Terms-and-Conditions
