@@ -72,8 +72,7 @@ We strive to ensure the information provided in the App is accurate and up-to-da
 
 ## SECTION 8 - PRIVACY POLICY
 
-Your use of the App is also governed by our **Privacy Policy**, which explains how we collect, use, and protect your data. To review our Privacy Policy, visit [Link to Privacy Policy].
-
+Your use of the App is also governed by our **Privacy Policy**, which explains how we collect, use, and protect your data. To review our Privacy Policy, visit [Privacy Policy](https://raw.githubusercontent.com/RamyGomaa/Avatone-documents/refs/heads/main/Privacy-Policy.md).
 ---
 
 ## SECTION 9 - PROHIBITED USES
@@ -99,7 +98,7 @@ We reserve the right to suspend or terminate accounts that engage in prohibited 
 
 ## SECTION 11 - GOVERNING LAW
 
-These Terms are governed by and construed in accordance with the laws of **[Your Country/Region]**. Any disputes shall be resolved exclusively in the courts of **[Your Jurisdiction]**.
+These Terms are governed by and construed in accordance with the laws of **Canada**. Any disputes shall be resolved exclusively in the courts of **Federal Jurisdiction**.
 
 ---
 
